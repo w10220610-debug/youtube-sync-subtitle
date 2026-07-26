@@ -1,2 +1,0 @@
-streamlit>=1.48,<2
-youtube-transcript-api>=1.2.4,<2
